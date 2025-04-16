@@ -10,7 +10,7 @@ Main **MATLAB** script that consolidates outputs from all paradigms and generate
 
 ---
 
-### `data_matrix`
+### `data_matrix.mat`
 ⚠️ Due to GitHub file size limitations, this file is hosted externally:
 https://drive.google.com/file/d/13OkyKUDMG6gW2IvOWi_5T4VTVr3qVILM/view?usp=drive_link
 
@@ -33,7 +33,7 @@ These vectors were averaged across selected electrodes to produce a compact freq
 > - Lecture: `(1, 3346)`
 ---
 
-### `data_matrix_64`
+### `data_matrix_64.mat`
 ⚠️ Due to GitHub file size limitations, this file is hosted externally:
 https://drive.google.com/file/d/1J1W4xjJmFJP3d5mE88BZFfzmUfDw-9Yy/view?usp=sharing
 
