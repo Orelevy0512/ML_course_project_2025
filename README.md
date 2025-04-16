@@ -11,6 +11,9 @@ Main **MATLAB** script that consolidates outputs from all paradigms and generate
 ---
 
 ### `data_matrix`
+⚠️ Due to GitHub file size limitations, this file is hosted externally:
+https://drive.google.com/file/d/13OkyKUDMG6gW2IvOWi_5T4VTVr3qVILM/view?usp=drive_link
+
 EEG features extracted from **selected electrodes only**:  
 - **7 Alpha electrodes:** `P1`, `P2`, `P4`, `PO3`, `PO4`, `POz`, `Pz`  
 - **8 Beta electrodes:** `C2`, `Cz`, `F1`, `F2`, `FC1`, `FC2`, `FCz`, `Fz`  
@@ -28,16 +31,17 @@ These vectors were averaged across selected electrodes to produce a compact freq
 > - RS Closed: `(1, 1519)`  
 > - Oddball: `(1, 3295)`  
 > - Lecture: `(1, 3346)`
-
 ---
 
 ### `data_matrix_64`
+⚠️ Due to GitHub file size limitations, this file is hosted externally:
+https://drive.google.com/file/d/1J1W4xjJmFJP3d5mE88BZFfzmUfDw-9Yy/view?usp=sharing
+
 Same structure as `data_matrix`, but includes **all 64 electrodes**, resulting in:  
 - Enhanced spatial resolution  
 - Expanded feature space  
 
 > *Note:* The **FOOOF vector** remains unchanged and is identical across both datasets.
-
 ---
 
 ### `ML final project.py`
