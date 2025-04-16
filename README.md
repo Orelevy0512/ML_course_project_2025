@@ -46,7 +46,7 @@ Same structure as `data_matrix`, but includes **all 64 electrodes**, resulting i
 > *Note:* The **FOOOF vector** remains unchanged and is identical across both datasets.
 ---
 
-### `ML final project.py`
+### `ML final project.ipynb`
 Main **Python** script for training models and comparing configurations.  
 Fully compatible with **Google Colab** for easy execution and reproducibility.
 
